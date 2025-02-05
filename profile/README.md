@@ -1,7 +1,7 @@
 ![](CVIL_logo.png)
 <h1>Computer Vision and Intelligence Lab (CVIL)</h1>
 
-<p>Welcome to the <strong>Computer Vision and Intelligence Lab (CVIL)</strong>! We are a research group focused on advancing the fields of computer vision, artificial intelligence, and machine learning. Our lab explores innovative methods to enable machines to perceive, understand, and interpret visual information from the world around them. Our work has applications in various domains, including healthcare, autonomous systems, environmental monitoring, and human-computer interaction.</p>
+<p>Welcome to the <strong>Anything AI Lab (CVIL)</strong>! We are a research lab focused on advancing the fields of artificial intelligence, classical machine learning and deep learning, computer vision - basically a lab with versatility and openness to exploring all aspects of AI. Our lab explores innovative methods to enable machines to perceive, understand, and interpret visual information from the world around them. Our works have applications in various domains, including healthcare and wellbeing, autonomous systems, environmental monitoring, and human-computer interaction.</p>
 
 Founded by: <a href="https://www.muzammilbehzad.com/">Dr. Muzammil Behzad</a>, August 2024.
 
@@ -32,7 +32,7 @@ Founded by: <a href="https://www.muzammilbehzad.com/">Dr. Muzammil Behzad</a>, A
 
 <ul>
   <li><strong>Contact Email</strong>: <a href="mailto:muzammil.behzad@gmail.com">muzammil.behzad@gmail.com</a></li>
-  <li><strong>Website</strong>: <a href="https://github.com/Computer-Vision-and-Intelligence-Lab">Computer Vision and Intelligence Lab</a></li>
+  <li><strong>Website</strong>: <a href="https://github.com/Anything-AI-Lab">Anything AI Lab</a></li>
 </ul>
 
-Thank you for visiting the Computer Vision and Intelligence Lab’s page! We look forward to advancing the field of computer vision and intelligence together.</p>
+Thank you for visiting Anything AI Lab’s page! We look forward to advancing the field of aritificial intelligence together.</p>
