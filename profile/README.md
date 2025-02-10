@@ -11,6 +11,7 @@ Founder and Director: <a href="https://www.muzammilbehzad.com/">Dr. Muzammil Beh
 
 <p>Our primary research interests include:</p>
 <ul>
+  <li><strong>Anything AI</strong>: Exploring all aspects of AI</li>
   <li><strong>Computer Vision</strong>: Object detection, scene understanding, and image segmentation</li>
   <li><strong>Machine Learning and Deep Learning</strong>: Model development, neural networks, and representation learning</li>
   <li><strong>Vision-Language Models</strong>: Combining vision and language understanding for enhanced context</li>
