@@ -18,7 +18,7 @@ Founder and Director: <a href="https://www.muzammilbehzad.com/">Dr. Muzammil Beh
   <li><strong>Affective Computing</strong>: Recognizing and interpreting emotions from facial expressions and gestures</li>
   <li><strong>Generative AI</strong>: Exploring GANs, diffusion models, and synthetic data generation</li>
   <li><strong>Human-Computer Interaction (HCI)</strong>: Enhancing user experiences with intelligent systems</li>
-  <li><strong>Medical-Image Segmentation</strong>: Innovative AI based clinical solutions for healthcare</li>
+  <li><strong>AI for Healthcare</strong>: Innovative AI based clinical solutions for healthcare</li>
 </ul>
 
 
