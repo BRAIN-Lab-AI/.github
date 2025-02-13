@@ -25,7 +25,7 @@ Founder and Director: <a href="https://www.muzammilbehzad.com/">Dr. Muzammil Beh
 
 <h2>Looking Forward to Collaboration </h2>
 
-<p>We encourage collaboration opportunities from industrial and academic partners. I am actively looking for graduate students, postdocs and researchers to join my team.
+<p>We encourage collaboration opportunities from industrial and academic partners. We are actively looking for graduate students, postdocs and researchers to join the team.
 
 <h2>Get in Touch</h2>
 
@@ -36,4 +36,4 @@ Founder and Director: <a href="https://www.muzammilbehzad.com/">Dr. Muzammil Beh
   <li><strong>Website</strong>: <a href="https://github.com/BRAIN-Lab-AI">BRAIN Lab: Breakthrough Research in Next Gen AI Networks Lab</a></li>
 </ul>
 
-Thank you for visiting Anything AI Lab’s page! We look forward to advancing the field of aritificial intelligence together.</p>
+Thank you for visiting BRAIN Lab’s page! We look forward to advancing the field of aritificial intelligence together.</p>
