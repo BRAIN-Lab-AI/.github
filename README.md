@@ -1,7 +1,7 @@
-![](XTELLIGENCE.png)
-<h1>XTELLIGENCE: Next Gen AI Lab</h1>
+![](BRAINLab.png)
+<h1>BRAIN Lab: Breakthrough Research in Next Gen AI Networks Lab</h1>
 
-<p>Welcome to the <strong>XTELLIGENCE: Next Gen AI Lab</strong>! We are a research lab focused on advancing the fields of artificial intelligence, classical machine learning, deep learning and computer vision - basically a lab with versatility and openness to exploring all aspects of AI. Our lab explores innovative methods to enable machines to perceive, understand, and interpret visual information from the world around them. Our works have applications in various domains, including healthcare and wellbeing, autonomous systems, environmental monitoring, and human-computer interaction.</p>
+<p>Welcome to the <strong>BRAIN Lab: Breakthrough Research in Next Gen AI Networks Lab</strong>! We are a research lab focused on advancing the fields of artificial intelligence, classical machine learning, deep learning, and computer vision - basically a lab with versatility and openness to exploring all aspects of AI. Our lab explores innovative methods to enable machines to perceive, understand, and interpret visual information from the world around them. Our works have applications in various domains, including healthcare and wellbeing, autonomous systems, environmental monitoring, and human-computer interaction.</p>
 
 Founder and Director: <a href="https://www.muzammilbehzad.com/">Dr. Muzammil Behzad</a>.
 
@@ -25,7 +25,7 @@ Founder and Director: <a href="https://www.muzammilbehzad.com/">Dr. Muzammil Beh
 
 <h2>Looking Forward to Collaboration </h2>
 
-<p>We encourage collaboration opportunities from industrial and academic partners. I am actively looking for graduate students, postdocs and researchers to join my team.
+<p>We encourage collaboration opportunities from industrial and academic partners. We are actively looking for graduate students, postdocs and researchers to join the team.
 
 <h2>Get in Touch</h2>
 
@@ -33,7 +33,7 @@ Founder and Director: <a href="https://www.muzammilbehzad.com/">Dr. Muzammil Beh
 
 <ul>
   <li><strong>Contact Email</strong>: <a href="mailto:muzammil.behzad@gmail.com">muzammil.behzad@gmail.com</a></li>
-  <li><strong>Website</strong>: <a href="https://github.com/Next-Gen-AI-Lab">XTELLIGENCE: Next Gen AI Lab</a></li>
+  <li><strong>Website</strong>: <a href="https://github.com/BRAIN-Lab-AI">BRAIN Lab</a></li>
 </ul>
 
-Thank you for visiting Anything AI Lab’s page! We look forward to advancing the field of aritificial intelligence together.</p>
+Thank you for visiting BRAIN Lab’s page! We look forward to advancing the field of aritificial intelligence together.</p>
