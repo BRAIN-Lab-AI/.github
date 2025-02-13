@@ -33,7 +33,7 @@ Founder and Director: <a href="https://www.muzammilbehzad.com/">Dr. Muzammil Beh
 
 <ul>
   <li><strong>Contact Email</strong>: <a href="mailto:muzammil.behzad@gmail.com">muzammil.behzad@gmail.com</a></li>
-  <li><strong>Website</strong>: <a href="[https://github.com/Next-Gen-AI-Lab](https://github.com/BRAIN-Lab-AI)">BRAIN Lab: Breakthrough Research in Next Gen AI Networks Lab</a></li>
+  <li><strong>Website</strong>: <a href="https://github.com/BRAIN-Lab-AI">BRAIN Lab: Breakthrough Research in Next Gen AI Networks Lab</a></li>
 </ul>
 
 Thank you for visiting Anything AI Lab’s page! We look forward to advancing the field of aritificial intelligence together.</p>
