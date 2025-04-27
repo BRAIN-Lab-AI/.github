@@ -3,7 +3,11 @@
 
 <p>Welcome to the <strong>BRAIN Lab: Breakthrough Research in Next Gen AI Networks Lab</strong>! We are a research lab focused on advancing the fields of artificial intelligence, classical machine learning, deep learning, and computer vision - basically a lab with versatility and openness to exploring all aspects of AI. Our lab explores innovative methods to enable machines to perceive, understand, and interpret visual information from the world around them. Our works have applications in various domains, including healthcare and wellbeing, autonomous systems, environmental monitoring, and human-computer interaction.</p>
 
+![](BRAINLabPeople.jpg)
+
 Founder and Director: <a href="https://www.muzammilbehzad.com/">Dr. Muzammil Behzad</a>.
+
+
 
 
 
