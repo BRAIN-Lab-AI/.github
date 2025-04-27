@@ -12,7 +12,7 @@ Founder and Director: <a href="https://www.muzammilbehzad.com/">Dr. Muzammil Beh
 <table>
   <tr>
     <td align="center">
-      <img src="BRAINLabPeople.jpg" width="100" height="100"><br>
+      <img src="Muzammil_picture.jpg" width="100" height="100"><br>
       <b>Dr. Muzammil Behzad</b><br>
       Founder and Director, BRAIN Lab<br>
       <a href="https://www.muzammilbehzad.com/">Homepage</a>
