@@ -28,28 +28,28 @@ Founder and Director: <a href="https://www.muzammilbehzad.com/">Dr. Muzammil Beh
     </td>
     <td align="center">
       <img src="BRAINLabPeople.jpg" width="100" height="100"><br>
-      <b>Hania Ghous</b><br>
+      <b>Hania Ghouse</b><br>
       PhD Researcher<br>
       <code>Multiple-Organ Clsssification/Segmentation, Vision-Language Models</code><br>
-      <a href="github_link3">GitHub</a> | <a href="linkedin_link3">LinkedIn</a>
+      <a href="https://github.com/HaniaGhouse0407">GitHub</a> | <a href="https://in.linkedin.com/in/hania-ghouse-a86632201">LinkedIn</a>
     </td>
     <td align="center">
       <img src="BRAINLabPeople.jpg" width="100" height="100"><br>
       <b>Afraah Shahid</b><br>
       MS Researcher<br>
       <code>Underwater Image Enhancement, Vision-Language Models</code><br>
-      <a href="github_link4">GitHub</a> | <a href="linkedin_link4">LinkedIn</a>
+      <a href="https://github.com/AfrahMS">GitHub</a> | <a href="linkedin_link4">LinkedIn</a>
     </td>
     <td align="center">
       <img src="BRAINLabPeople.jpg" width="100" height="100"><br>
       <b>Alaa Dalaq</b><br>
       MS Researcher<br>
       <code>Object Segmentation, Vision-Language Models</code><br>
-      <a href="github_link4">GitHub</a> | <a href="linkedin_link4">LinkedIn</a>
+      <a href="github_link4">GitHub</a> | <a href="https://www.linkedin.com/in/afrah-shaahid-76967421a">LinkedIn</a>
     </td>
     <td align="center">
       <img src="BRAINLabPeople.jpg" width="100" height="100"><br>
-      <b>Thuraya</b><br>
+      <b>Thuraya Alzubaidi</b><br>
       MS Researcher<br>
       <code>Medical Image Analysis, Multiple-Organ Segmentation, XAI, Vision-Language Models</code><br>
       <a href="github_link5">GitHub</a> | <a href="linkedin_link5">LinkedIn</a>
@@ -95,6 +95,42 @@ Founder and Director: <a href="https://www.muzammilbehzad.com/">Dr. Muzammil Beh
   <li><strong>Human-Computer Interaction (HCI)</strong>: Enhancing user experiences with intelligent systems</li>
   <li><strong>AI for Healthcare</strong>: Innovative AI based clinical solutions for healthcare</li>
 </ul>
+
+
+<h2>News</h2>
+
+<div style="height: 20px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
+
+<ul>
+  <li><b>2025.04</b>: 📣 Safa started working as a PhD researcher on generative AI for medical 3D data.</li>
+  <li><b>2025.04</b>: 📣 Hania got admitted to PhD program at KFUPM, Saudi Arabia.</li>
+  <li><b>2025.04</b>: 📣 Thuraya got admitted to MS program at KFUPM, Saudi Arabia.</li>
+  <li><b>2025.04</b>: 📣 Sana and Thuraya's poster accepted in Women in Data Science (WiDS) 2025 poster competition in KFUPM, Saudi Arabia.</li>
+  <li><b>2025.04</b>: 📣 Dr. Muzammil's paper accepted in 19th IEEE Int. Conf. on Automatic Face and Gesture Recognition 2025, Florida, US. </li>
+  <li><b>2025.04</b>: 📣 Sana's poster accepted in 16th Student Research Conference on Applied Computing 2025, Abu Dhabi, UAE.</li>
+  <li><b>2025.04</b>: 📣 Abdulmobeen's poster accepted in 16th Student Research Conference on Applied Computing 2025, Abu Dhabi, UAE.</li>  
+  <li><b>2025.02</b>: 📣 Dr. Muzammil funded project on AI models for multimodal based differentiation of ocular neoplasia as PI is approved.</li> 
+  <li><b>2025.02</b>: 📣 Dr. Muzammil participated in LEAP Conference in Riyadh, Saudi Arabia.</li>
+  <li><b>2025.02</b>: 📣 Hania started working as a visiting researcher on multiple organ segmentation and medical analysis.</li>
+  <li><b>2025.02</b>: 📣 Dr. Muzammil's funded project on vision language model for emotion recognition as PI approved.</li>  
+  <li><b>2025.01</b>: 📣 Abdulmobeen started working as an undergrad researcher on tackling data imbalance in rare object detection.</li>
+  <li><b>2025.01</b>: 📣 Thuraya started working as a visiting researcher on explainability of vision language models</li>
+  <li><b>2025.01</b>: 📣 Abdulrazaq started working as an undergrad researcher on transformer models for underwater image enhancement.</li>
+  <li><b>2025.01</b>: 📣 Sana started working as an undergrad researcher on explainability for medical image segmentation.</li>
+  <li><b>2024.11</b>: 📣 Dr. Muzammil gave a seminar on emotion recogniton from 3D/4D faces in KFUPM, Saudi Arabia.</li>
+  <li><b>2024.11</b>: 📣 Afraah's poster accepted in AITS poster competition in KFUPM, Saudi Arabia.</li>
+  <li><b>2024.10</b>: 📣 Afraah's poster accepted in JRCAI poster competition in KFUPM, Saudi Arabia.</li>
+  <li><b>2024.09</b>: 📣 Dr. Muzammil participated in Int. Conf. on Smart Mobility and Logistics Ecosystem (SMILE) in KFUPM, Saudi Arabia.</li>
+  <li><b>2024.10</b>: 📣 Alaa started working as an MS researcher on vision language models for semantic segmentation.</li>
+  <li><b>2024.09</b>: 📣 Dr. Muzammil participated in Global AI GAIN Summit in Riyadh, Saudi Arabia.</li>
+  <li><b>2024.09</b>: 📣 Afraah started working as an MS researcher on underwater visual enhancements.</li>  
+  <li><b>2024.09</b>: 📣 Dr. Muzammil affiliated as a research fellow with SDAIA-KFUPM Joint Research Centre on AI (JRC-AI), Saudi Arabia.</li>
+  <li><b>2024.09</b>: 📣 Dr. Muzammil officially appointed as Mentor for the students of KFUPM, Saudi Arabia.</li>
+</ul>
+
+</div>
+
+
 
 
 
