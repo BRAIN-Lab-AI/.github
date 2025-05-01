@@ -102,6 +102,7 @@ Founder and Director: <a href="https://www.muzammilbehzad.com/">Dr. Muzammil Beh
 <div style="height: 20px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
 
 <ul>
+  <li><b>2025.05</b>: 📣 Our team (Thuraya and Sana) have won the 2nd place in the poster competition in Women in Data Science (WiDs 2025) conference.</li>
   <li><b>2025.04</b>: 📣 Safa started working as a PhD researcher on generative AI for medical 3D data.</li>
   <li><b>2025.04</b>: 📣 Hania got admitted to PhD program at KFUPM, Saudi Arabia.</li>
   <li><b>2025.04</b>: 📣 Thuraya got admitted to MS program at KFUPM, Saudi Arabia.</li>
