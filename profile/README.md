@@ -149,3 +149,5 @@ Founder and Director: <a href="https://www.muzammilbehzad.com/">Dr. Muzammil Beh
 </ul>
 
 Thank you for visiting BRAIN Lab’s page! We look forward to advancing the field of aritificial intelligence together.</p>
+
+<a href="https://info.flagcounter.com/ZZYY"><img src="https://s05.flagcounter.com/count2/ZZYY/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_64/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
