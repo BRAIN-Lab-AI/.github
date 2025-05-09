@@ -27,32 +27,41 @@ Founder and Director: <a href="https://www.muzammilbehzad.com/">Dr. Muzammil Beh
       <a href="https://github.com/SaFaUU">GitHub</a> | <a href="https://www.linkedin.com/in/safa-asgar/">LinkedIn</a>
     </td>
     <td align="center">
-      <img src="BRAINLabPeople.jpg" width="100" height="100"><br>
+      <img src="HaniaGhouse.jpg" width="100" height="100"><br>
       <b>Hania Ghouse</b><br>
       PhD Researcher<br>
       <code>Multiple-Organ Clsssification/Segmentation, Vision-Language Models</code><br>
       <a href="https://github.com/HaniaGhouse0407">GitHub</a> | <a href="https://in.linkedin.com/in/hania-ghouse-a86632201">LinkedIn</a>
     </td>
     <td align="center">
-      <img src="BRAINLabPeople.jpg" width="100" height="100"><br>
+      <img src="Reem Aljunaid.png" width="100" height="100"><br>
+      <b>Reem AlJunaid</b><br>
+      PhD Researcher<br>
+      <code>Generative AI, Vision-Language Models, Image Captioning</code><br>
+      <a href="https://github.com/BRAIN-Lab-AI/">GitHub</a> | <a href="https://github.com/BRAIN-Lab-AI/">LinkedIn</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="AfraahShahid.png" width="100" height="100"><br>
       <b>Afraah Shahid</b><br>
       MS Researcher<br>
       <code>Underwater Image Enhancement, Vision-Language Models</code><br>
-      <a href="https://github.com/AfrahMS">GitHub</a> | <a href="linkedin_link4">LinkedIn</a>
+      <a href="https://github.com/AfrahMS">GitHub</a> | <a href="https://www.linkedin.com/in/afrah-shaahid-76967421a">LinkedIn</a>
     </td>
     <td align="center">
-      <img src="BRAINLabPeople.jpg" width="100" height="100"><br>
+      <img src="Alaa.jpg" width="100" height="100"><br>
       <b>Alaa Dalaq</b><br>
       MS Researcher<br>
       <code>Object Segmentation, Vision-Language Models</code><br>
-      <a href="github_link4">GitHub</a> | <a href="https://www.linkedin.com/in/afrah-shaahid-76967421a">LinkedIn</a>
+      <a href="https://github.com/AlaaDalaq">GitHub</a> | <a href="https://github.com/AlaaDalaq">LinkedIn</a>
     </td>
     <td align="center">
-      <img src="BRAINLabPeople.jpg" width="100" height="100"><br>
+      <img src="Thuraya.png" width="100" height="100"><br>
       <b>Thuraya Alzubaidi</b><br>
       MS Researcher<br>
       <code>Medical Image Analysis, Multiple-Organ Segmentation, XAI, Vision-Language Models</code><br>
-      <a href="github_link5">GitHub</a> | <a href="linkedin_link5">LinkedIn</a>
+      <a href="https://github.com/TThuraya">GitHub</a> | <a href="https://github.com/TThuraya">LinkedIn</a>
     </td>
   </tr>
   <tr>
@@ -71,11 +80,11 @@ Founder and Director: <a href="https://www.muzammilbehzad.com/">Dr. Muzammil Beh
       <a href="https://github.com/A1maan">GitHub</a> | <a href="https://www.linkedin.com/in/almaan-khan-85b9b4278/">LinkedIn</a>
     </td>
     <td align="center">
-      <img src="BRAINLabPeople.jpg" width="100" height="100"><br>
+      <img src="abdulrazaq.png" width="100" height="100"><br>
       <b>Abdul Razaq</b><br>
       BS Researcher<br>
       <code>Underwater Image Enhancement</code><br>
-      <a href="github_link8">GitHub</a> | <a href="linkedin_link8">LinkedIn</a>
+      <a href="https://github.com/amussab">GitHub</a> | <a href="https://www.linkedin.com/in/abdulrazaq-alsayed-ahmad-6a897b247 ">LinkedIn</a>
     </td>
   </tr>
 </table>
@@ -102,6 +111,7 @@ Founder and Director: <a href="https://www.muzammilbehzad.com/">Dr. Muzammil Beh
 <div style="height: 20px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
 
 <ul>
+  <li><b>2025.05</b>: 📣 Reem started working as a PhD researcher on generative AI for real-world knowledge image captioning</li>
   <li><b>2025.05</b>: 📣 Our team (Thuraya and Sana) has won the 2nd place in the poster competition in Women in Data Science (WiDs 2025) conference.</li>
   <li><b>2025.04</b>: 📣 Safa started working as a PhD researcher on generative AI for medical 3D data.</li>
   <li><b>2025.04</b>: 📣 Hania got admitted to PhD program at KFUPM, Saudi Arabia.</li>
