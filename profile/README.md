@@ -111,8 +111,8 @@ Founder and Director: <a href="https://www.muzammilbehzad.com/">Dr. Muzammil Beh
 <div style="height: 20px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
 
 <ul>  
-  <li><b>2025.05</b>: 📣 Dr. Muzammil's paper titled "SMILE-VLM: Self-Supervised Multi-View Representation Learning using Vision-Language Model for 3D/4D Facial Expression Recognition" got accepted in <a href="https://ieeexplore.ieee.org/abstract/document/11123167">IEEE Access</a>.</li>
-  <li><b>2025.05</b>: 📣 Our paper titled "Prompt-Guided Patch UNet-VAE with Adversarial Supervision for Adrenal Gland Segmentation in Computed Tomography Medical Images" got accepted in <a href="https://aiih.cc/">International Conference on Artificial Intelligence in Healthcare (AIiH 2025)</a>.</li>
+  <li><b>2025.08</b>: 📣 Dr. Muzammil's paper titled "SMILE-VLM: Self-Supervised Multi-View Representation Learning using Vision-Language Model for 3D/4D Facial Expression Recognition" got accepted in <a href="https://ieeexplore.ieee.org/abstract/document/11123167">IEEE Access</a>.</li>
+  <li><b>2025.08</b>: 📣 Our paper titled "Prompt-Guided Patch UNet-VAE with Adversarial Supervision for Adrenal Gland Segmentation in Computed Tomography Medical Images" got accepted in <a href="https://aiih.cc/">International Conference on Artificial Intelligence in Healthcare (AIiH 2025)</a>.</li>
   <li><b>2025.05</b>: 📣 Reem started working as a PhD researcher on generative AI for real-world knowledge image captioning</li>
   <li><b>2025.05</b>: 📣 Our team (Thuraya and Sana) has won the 2nd place in the poster competition in Women in Data Science (WiDs 2025) conference.</li>
   <li><b>2025.04</b>: 📣 Safa started working as a PhD researcher on generative AI for medical 3D data.</li>
