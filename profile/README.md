@@ -110,13 +110,15 @@ Founder and Director: <a href="https://www.muzammilbehzad.com/">Dr. Muzammil Beh
 
 <div style="height: 20px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
 
-<ul>
+<ul>  
+  <li><b>2025.05</b>: 📣 Dr. Muzammil's paper titled "SMILE-VLM: Self-Supervised Multi-View Representation Learning using Vision-Language Model for 3D/4D Facial Expression Recognition" got accepted in <a href="https://ieeexplore.ieee.org/abstract/document/11123167">IEEE Access</a>.</li>
+  <li><b>2025.05</b>: 📣 Our paper titled "Prompt-Guided Patch UNet-VAE with Adversarial Supervision for Adrenal Gland Segmentation in Computed Tomography Medical Images" got accepted in <a href="https://aiih.cc/">International Conference on Artificial Intelligence in Healthcare (AIiH 2025)</a>.</li>
   <li><b>2025.05</b>: 📣 Reem started working as a PhD researcher on generative AI for real-world knowledge image captioning</li>
   <li><b>2025.05</b>: 📣 Our team (Thuraya and Sana) has won the 2nd place in the poster competition in Women in Data Science (WiDs 2025) conference.</li>
   <li><b>2025.04</b>: 📣 Safa started working as a PhD researcher on generative AI for medical 3D data.</li>
   <li><b>2025.04</b>: 📣 Hania got admitted to PhD program at KFUPM, Saudi Arabia.</li>
   <li><b>2025.04</b>: 📣 Thuraya got admitted to MS program at KFUPM, Saudi Arabia.</li>
-  <li><b>2025.04</b>: 📣 Sana and Thuraya's poster accepted in Women in Data Science (WiDS) 2025 poster competition in KFUPM, Saudi Arabia.</li>
+  <li><b>2025.04</b>: 📣 Our team's (Sana and Thuraya) poster accepted in Women in Data Science (WiDS) 2025 poster competition in KFUPM, Saudi Arabia.</li>
   <li><b>2025.04</b>: 📣 Dr. Muzammil's paper accepted in 19th IEEE Int. Conf. on Automatic Face and Gesture Recognition 2025, Florida, US. </li>
   <li><b>2025.04</b>: 📣 Sana's poster accepted in 16th Student Research Conference on Applied Computing 2025, Abu Dhabi, UAE.</li>
   <li><b>2025.04</b>: 📣 Abdulmobeen's poster accepted in 16th Student Research Conference on Applied Computing 2025, Abu Dhabi, UAE.</li>  
